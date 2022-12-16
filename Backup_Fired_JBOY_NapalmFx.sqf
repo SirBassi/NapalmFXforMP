@@ -3,23 +3,18 @@
 Author:  Johnnyboy
 Credits: AliasCartoons for fire fx.  Thanks brother!
 		 snafu for including the Assets from SOG CDLC 1.2 Update
-		 SirBassi workaround for making MP / Dedi ready
+		 
 */
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Scriptpath actual: Missionfolder: /Skripte/...this
 //execVM this Script by init.sqf
 
-//Change 09.12.22
-//- Clutter remove
-//- al_fire_deco.sqf remoteExec change to 2
-//- al_fire_deco.sqf last "else" part disabled
-//- al_small_fire.sqf remoteExec change to 2
-//- al_small_fire.sqf last "else" part disabled
-//- al_unit_fire_sfx.sq remoteExec change to 2
-//- al_unit_fire.sqf remoteExec change to 2
-//- al_vehicle_fire.sqf remoteExec change to 2
-//- al_wild_fire_sfx.sqf waituntil added sleep
-//-	al_wild_fire.sqf remoteExec change to 2
-//- al_wild_fire.sqf 2x last "else" part disabled
+//Actual to do:
+// Check the influence of this script to MF Medic System
+// Check the influence of this script to MF Map Markers (Nametags, update unit alive and so on)
+
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
